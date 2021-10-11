@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import os
-#enter songs in the list as strings
+#enter song urls in the list as strings
 songs = [""]
 commands = []
 os.system("mkdir ~/Songs")
