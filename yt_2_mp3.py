@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 import os
-
-songs = ["https://www.youtube.com/watch?v=ETEg-SB01QY", "https://www.youtube.com/watch?v=3jTjBt0Enyw"]
+#enter songs in the list as strings
+songs = [""]
 commands = []
 os.system("mkdir ~/Songs")
 for i in songs:
