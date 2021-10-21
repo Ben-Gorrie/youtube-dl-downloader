@@ -1,2 +1,4 @@
 # youtube-dl-downloader
-requires youtube-dl
+Download youtube-dl ($sudo apt install youtube-dl)
+Download ffmpeg
+Run
