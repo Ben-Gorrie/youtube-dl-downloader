@@ -5,7 +5,7 @@ import os
 songs = [""]
 commands = []
 for i in songs:
-    string = "youtube-dl -o '~/Music/%(title)s.%(ext)s' --extract-audio --audio-format mp3 " + i
+    string = "yt-dlp -o '~/Music/%(title)s.%(ext)s' --extract-audio --audio-format mp3 " + i
     commands.append(string)
     
 for i in commands:
